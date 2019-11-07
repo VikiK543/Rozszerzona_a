@@ -3,5 +3,7 @@
     int main() 
     {
         cout << "Hello, World!";
-        return 0;
+        cout << "cześć!" ;
+      return 0;
+       
     }
